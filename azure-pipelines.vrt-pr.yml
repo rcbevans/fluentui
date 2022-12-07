@@ -258,4 +258,5 @@ jobs:
           GITHUB_REPO_OWNER: 'microsoft'
           GITHUB_REPO_NAME: 'fluentui'
           VR_APPROVAL_HOST: $(VR_APPROVAL_HOST)
+          VR_APP_NAME: $(VR_APP_NAME)
         condition: eq(variables['vrTestSkip'], 'no')
