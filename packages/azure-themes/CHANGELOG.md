@@ -1,8 +1,35 @@
 # Change Log - @fluentui/azure-themes
 
-This log was last generated on Wed, 30 Nov 2022 07:46:31 GMT and should not be manually modified.
+This log was last generated on Wed, 07 Dec 2022 07:43:15 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.5.34](https://github.com/microsoft/fluentui/tree/@fluentui/azure-themes_v8.5.34)
+
+Wed, 07 Dec 2022 07:43:15 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/azure-themes_v8.5.33..@fluentui/azure-themes_v8.5.34)
+
+### Patches
+
+- action button fix ([PR #25900](https://github.com/microsoft/fluentui/pull/25900) by 30805892+Jacqueline-ms@users.noreply.github.com)
+
+## [8.5.33](https://github.com/microsoft/fluentui/tree/@fluentui/azure-themes_v8.5.33)
+
+Mon, 05 Dec 2022 07:54:46 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/azure-themes_v8.5.32..@fluentui/azure-themes_v8.5.33)
+
+### Patches
+
+- Bump @fluentui/react to v8.103.5 ([PR #25884](https://github.com/microsoft/fluentui/pull/25884) by beachball)
+
+## [8.5.32](https://github.com/microsoft/fluentui/tree/@fluentui/azure-themes_v8.5.32)
+
+Fri, 02 Dec 2022 07:54:15 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/azure-themes_v8.5.31..@fluentui/azure-themes_v8.5.32)
+
+### Patches
+
+- Bump @fluentui/react to v8.103.4 ([PR #25863](https://github.com/microsoft/fluentui/pull/25863) by beachball)
 
 ## [8.5.31](https://github.com/microsoft/fluentui/tree/@fluentui/azure-themes_v8.5.31)
 
